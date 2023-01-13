@@ -1,4 +1,4 @@
-## Oi, eu sou Luiz! sou um iniciante na tecnologia, e como pediu o ET BILU, estou sempre em busca de conhecimento! 
+## Oi, eu sou Luiz! sou iniciante no mundo da tecnologia, e como pediu o ET BILU, estou sempre em busca de conhecimento! 
 <div align="center">
   <a href="https://github.com/luizcarloslzn">
 </div>

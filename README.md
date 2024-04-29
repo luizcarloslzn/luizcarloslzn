@@ -21,3 +21,9 @@ Atualmente estou me especializando em desenvolvimento web front-end onde sempre 
 <p>
    <img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" border="0" width="60%">
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
+</picture>
